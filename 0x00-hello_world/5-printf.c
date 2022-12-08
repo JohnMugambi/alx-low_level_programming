@@ -2,6 +2,8 @@
 
 /**
  * main -Entry point
+ * my hello print task
+ * Return: return 1 after program execution
  */
 
 int main(void)
