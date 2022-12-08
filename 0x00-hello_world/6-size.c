@@ -1,9 +1,8 @@
 #include <stdio.h>
 
 /**
+ * 
  * main - Entry point
- *
- * Description : using sizeoff
  *
  * Return : Always 0 (Success)
  */
