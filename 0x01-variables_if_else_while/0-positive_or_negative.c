@@ -4,8 +4,7 @@
 /**
  * main-program entry
  * description - prints positive negative
- * Return: 0 - no error
- * 
+ * Return: 0 - no error 
  */
 
 int main(void)
