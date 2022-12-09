@@ -2,10 +2,10 @@
 #include <time.h>
 #include <stdio.h>
 /**
- * more headers goes here
- * main -program entry
+ * main-program entry
+ * description - prints positive negative
  * Return: 0 - no error
- * betty style doc for function main goes there
+ * 
  */
 
 int main(void)
