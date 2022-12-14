@@ -2,8 +2,9 @@
 
 /**
  * main -  printss _putchar
+ *
  * Return : always 0
- * description - putchar
+ *
  */
 int main(void)
 {
