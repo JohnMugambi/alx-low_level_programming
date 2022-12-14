@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- * main -  prints _putchar
- * 
- * Description: this is a _putchar program
+ * main - prints _putchar
+ *
+ * Description: This is a putchar prograam
  *
  * Return: always 0
  *
