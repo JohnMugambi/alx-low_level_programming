@@ -3,13 +3,15 @@
 /**
  * jack_bauer : prototype
  *
+ * Description: jack start from 00 to 23.59
+ *
  * Return : always 0
  */
 void jack_bauer(void)
 {
-	int hour,minute;
+	int hour, minute;
 
-	for (hour = 0; hour <=23; hour++)
+	for (hour = 0; hour <= 23; hour++)
 	{
 		for (minute = 0; minute <= 59; minute++)
 		{
