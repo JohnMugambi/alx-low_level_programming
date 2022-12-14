@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * jack_bauer : prototype
+ * jack_bauer : prints every minute from 0000 to 2359
  *
  * Description: jack start from 00 to 23.59
  *
