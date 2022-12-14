@@ -3,7 +3,7 @@
 /**
  * main -  prints _putchar
  * 
- * Description: this is a putchar program
+ * Description: this is a _putchar program
  *
  * Return: always 0
  *
